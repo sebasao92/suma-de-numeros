@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.Scanner;
 
-public class Calculador {
+public class CalculadorDeNumeros {
 
     private static Scanner scanner = new Scanner(System.in);
 
